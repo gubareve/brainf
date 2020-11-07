@@ -6,7 +6,7 @@ Note that this does not support loops inside of eachother.
 
 Here is some sample usage:
 
-```ps
+```txt
 PS C:\Users\Evan\bf> pypy3 bf.py
 bf< ,
 bf<<< 21
