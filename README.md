@@ -4,7 +4,7 @@ My simple take on a BrainF compiler written in python.
 
 Note that this does not support loops inside of eachother.
 
-Here is some sample usage:
+Here is some sample usage (adding two numbers):
 
 ```txt
 PS C:\Users\Evan\bf> pypy3 bf.py
